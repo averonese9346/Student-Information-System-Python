@@ -1,0 +1,38 @@
+[
+    {
+        "ID": "700896",
+        "Name": "Vallory Quentin",
+        "Phone": "847-625-5987",
+        "Major": "CS"
+    },
+    {
+        "ID": "700001",
+        "Name": "Emily White",
+        "Phone": "816-111-1111",
+        "Major": "DS"
+    },
+    {
+        "ID": "700002",
+        "Name": "David Bachman",
+        "Phone": "816-222-2222",
+        "Major": "CYBR"
+    },
+    {
+        "ID": "700003",
+        "Name": "Jason James",
+        "Phone": "816-333-3333",
+        "Major": "SE"
+    },
+    {
+        "ID": "700666",
+        "Name": "Damian Melkor",
+        "Phone": "847-896-3256",
+        "Major": "CYBR"
+    },
+    {
+        "ID": "700854",
+        "Name": "Joseph Veronese",
+        "Phone": "789-456-1532",
+        "Major": "CS"
+    }
+]
